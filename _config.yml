@@ -57,7 +57,7 @@ authors:
     name: Mahyar Hallaj
     bio: developer by day, artist also by day (& night)
     external-image: false
-    picture: assets/images/profile_photo.jpg
+    picture: assets/images/profile.jpg
     twitter: johndoe
   jamesfoster:
     name: James Foster
@@ -108,7 +108,7 @@ animation: true
 defaults:
   - scope:
       path: "" # an empty string here means all files in the project
-      layout: "post"
+      # layout: "post"
     values:
       # setting all post to not hidden by default,
       # can be overridden in the front matter for a specific post
