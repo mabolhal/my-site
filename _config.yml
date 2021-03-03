@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets\images\profile_photo.jpg
+picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -16,7 +16,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://mabolhal.github.io/my-site
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -57,7 +57,7 @@ authors:
     name: Mahyar Hallaj
     bio: developer by day, artist also by day (& night)
     external-image: false
-    picture: assets\images\profile_photo.jpg
+    picture: assets/images/profile.jpg
     twitter: johndoe
   jamesfoster:
     name: James Foster
@@ -108,7 +108,7 @@ animation: true
 defaults:
   - scope:
       path: "" # an empty string here means all files in the project
-      layout: "post"
+      # layout: "post"
     values:
       # setting all post to not hidden by default,
       # can be overridden in the front matter for a specific post
