@@ -35,12 +35,12 @@ Here, right here
 <div class="side-by-side">
 
     <div class="toleft" markdown="1">
-It is a personal thrill for me to be in my hometown. Well, what is a hometown anyway. There’s a certain openness that presents itself to you. We are all welcome here.
+It is a personal thrill for me to be in my hometown. Well, what is a hometown anyway. There’s a certain openness that presents itself to you. We are all welcome here.  
 
 There’s no other joy comparable than walking in the Sun. I could cry for you, Khorshid Khanoom.
-Of course, the colors manifest themselves with absolute authority.
+Of course, the colors manifest themselves with absolute authority.  
 
-Trees, so high and tall. Anxiety everywhere and I look to You for solace. You’ve been here since before me; You have everything to offer.
+Trees, so high and tall. Anxiety everywhere and I look to You for solace. You’ve been here since before me; You have everything to offer.  
 
 Leaving you is hard every time. I’m sad to say goodbye. Sadly I cannot, as of this time, stay with you longer. I will return, I promise.
 </div>
