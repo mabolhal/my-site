@@ -1,0 +1,57 @@
+---
+title: "Be'sat"
+layout: post
+date: 2021-03-07
+category: blog
+author: johndoe
+description: Be'sat is a park in Shiraz. I spent many mornings there by myself.
+---
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="{{ site.url }}/assets/images/IMG_6556_Cropped.jpg" alt="Alt Text">
+        <figcaption class="caption">Parke Besat I</figcaption>
+    </div>
+
+
+    <div class="toright" markdown="1">
+        
+I can close my eyes and see myself in Be’sat  
+In all its glory  
+The sky so blue, and colors so intense  
+The smells so intense  
+I am brought to my knees  
+I do not belong here, yet I belong here  
+My eyes take in everything  
+The essence of company  
+Oh how I wish to be amongst them  
+After all I thrill at hitting that joke  
+Your wide-eyed reaction  
+I want us to laugh  
+Here, right here  
+        
+</div>
+</div>
+
+<div class="side-by-side">
+
+    <div class="toleft" markdown="1">
+It is a personal thrill for me to be in my hometown. Well, what is a hometown anyway. There’s a certain openness that presents itself to you. We are all welcome here.
+
+There’s no other joy comparable than walking in the Sun. I could cry for you, Khorshid Khanoom.
+Of course, the colors manifest themselves with absolute authority.
+
+Trees, so high and tall. Anxiety everywhere and I look to You for solace. You’ve been here since before me; You have everything to offer.
+
+Leaving you is hard every time. I’m sad to say goodbye. Sadly I cannot, as of this time, stay with you longer. I will return, I promise.
+</div>
+    <div class="toright">
+        <img class="image" src="{{ site.url }}/assets/images/IMG_6505.JPEG" alt="Alt Text">
+        <figcaption class="caption">Parke Besat II</figcaption>
+    </div>    
+</div>
+
+<!-- <div markdown="1">
+
+***Bonjour***
+
+</div> -->

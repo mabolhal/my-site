@@ -3,7 +3,7 @@ name: mahyar hallaj
 bio: platform for creative expression
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: platform for creative expression
 
 # if it's an external image, update below for true
 # better with square images
@@ -141,3 +141,5 @@ exclude:
     "node_modules",
     "vendor",
   ]
+
+future: true
