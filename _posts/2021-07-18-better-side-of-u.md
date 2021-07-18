@@ -1,5 +1,5 @@
 ---
-title: "better side of U"
+title: "better side of U (feat. mezzie)"
 layout: post
 date: 2021-07-18
 category: blog
