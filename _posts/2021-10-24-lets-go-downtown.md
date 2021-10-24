@@ -1,7 +1,7 @@
 ---
 title: "lets go downtown"
 layout: post
-date: 2021-20-24
+date: 2021-10-24
 category: blog
 author: johndoe
 description: on song
