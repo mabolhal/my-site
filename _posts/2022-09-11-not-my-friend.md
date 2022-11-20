@@ -1,5 +1,5 @@
 ---
-title: "on the news feat. dona-bella"
+title: "not my friend feat. dona-bella"
 layout: post
 date: 2022-09-11
 category: blog
