@@ -1,5 +1,5 @@
 ---
-title: "not special feat Samalong"
+title: "not special feat. samalong"
 layout: post
 date: 2023-02-19
 category: blog
